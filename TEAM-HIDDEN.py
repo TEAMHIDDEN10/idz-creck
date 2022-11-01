@@ -1,9 +1,3 @@
-#opensource_by_qaiser
-#thanks_irfan_github
-#my_github_https://github.com/TechQaiser
-#wp:03079321417
-
-
 W = '\033[97;1m' 
 R = '\033[91;1m' 
 G = '\033[92;1m' 
