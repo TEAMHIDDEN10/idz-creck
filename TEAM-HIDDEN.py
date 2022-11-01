@@ -49,10 +49,10 @@ logo = """\033[1;92m  ____  _   _    _    _   _ _____ ___
                                                                                      
 
 \033[1;90m════════════════════════════════════════════════
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : ARIF CHOWDHURY  
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB PAGE : 𝐀𝐑𝐈𝐅 𝐕𝐀𝐔 ツ
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : arifTEAM HIDDEN420
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mVERSION  : 3.4.3
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : Mr. Hidden 
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB PAGE : Team Hidden
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : TEAMHIDDEN10
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mVERSION  : 1.0.0
 \033[1;90m════════════════════════════════════════════════
     """
 
@@ -93,15 +93,7 @@ class Main:
 			time.sleep(2.0)
 			os.system("clear")
 		print(logo)
-class Main:
-	def __init__(self):
-		self.id = []
-		self.ok = []
-		self.cp = []
-		self.loop = 0
-		os.system("clear")
-		print(logo)
-		print(' \033[1;95mDont Decode My Tools \033[0m')
+	        print(' \033[1;95mDont Decode My Tools \033[0m')
 		print(' \033[1;95mThis Tool Clone Old Random Account \033[0m')
 		print("")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2008-11 %s[Just-Now-Open]"%(P,G,R,Y,B))
